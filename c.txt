@@ -1,1 +1,2 @@
 modify c.txt
+new changes to c
